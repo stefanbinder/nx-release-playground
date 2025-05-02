@@ -65,7 +65,6 @@
     }
   ],
   "release": {
-    "projects": ["AppAccounts", "AppWebshop"],
     "releaseTagPattern": "{projectName}@{version}",
     "projectsRelationship": "independent",
     "changelog": {
