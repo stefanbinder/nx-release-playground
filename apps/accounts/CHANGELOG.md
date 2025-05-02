@@ -1,3 +1,9 @@
+## 0.2.1 (2025-05-02)
+
+### 🩹 Fixes
+
+- package.json dependencies ([2dfcf92](https://github.com/stefanbinder/nx-release-playground/commit/2dfcf92))
+
 ## 0.2.0 (2025-05-02)
 
 ### 🚀 Features
