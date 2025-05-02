@@ -1,0 +1,9 @@
+{
+  "name": "AppWebshop",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/webshop/src",
+  "projectType": "application",
+  "tags": ["application"],
+  "// targets": "to see all targets run: nx show project AppWebshop --web",
+  "targets": {}
+}

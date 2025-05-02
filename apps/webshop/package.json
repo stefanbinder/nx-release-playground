@@ -4,5 +4,8 @@
   "private": true,
   "nx": {
     "name": "AppWebshop"
+  },
+  "dependencies": {
+    "@nx-release-playground/ui-webshop": "workspace:*"
   }
 }
