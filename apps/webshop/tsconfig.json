@@ -3,6 +3,9 @@
   "include": [],
   "references": [
     {
+      "path": "../../packages/ui-webshop"
+    },
+    {
       "path": "./tsconfig.app.json"
     },
     {

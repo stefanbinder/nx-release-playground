@@ -3,10 +3,12 @@
 import NxWelcome from './nx-welcome';
 
 import { Route, Routes, Link } from 'react-router-dom';
+import { WebshopButton } from '@nx-release-playground/ui-webshop';
 
 export function App() {
   return (
     <div>
+      <WebshopButton>Webshop</WebshopButton>
       <NxWelcome title="AppWebshop" />
 
       {/* START: routes */}

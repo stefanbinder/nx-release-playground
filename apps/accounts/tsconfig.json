@@ -3,6 +3,9 @@
   "include": [],
   "references": [
     {
+      "path": "../../packages/ui-accounts"
+    },
+    {
       "path": "./tsconfig.app.json"
     },
     {

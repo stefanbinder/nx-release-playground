@@ -3,10 +3,12 @@
 import NxWelcome from './nx-welcome';
 
 import { Route, Routes, Link } from 'react-router-dom';
+import { AccountsButton } from '@nx-release-playground/ui-accounts';
 
 export function App() {
   return (
     <div>
+      <AccountsButton>Accounts</AccountsButton>
       <NxWelcome title="AppAccounts" />
 
       {/* START: routes */}
