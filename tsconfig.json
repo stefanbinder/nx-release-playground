@@ -2,5 +2,21 @@
   "extends": "./tsconfig.base.json",
   "compileOnSave": false,
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./apps/accounts"
+    },
+    {
+      "path": "./apps/webshop"
+    },
+    {
+      "path": "./packages/ui-accounts"
+    },
+    {
+      "path": "./packages/ui-webshop"
+    },
+    {
+      "path": "./packages/ui-shared"
+    }
+  ]
 }
