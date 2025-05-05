@@ -6,6 +6,6 @@
     "name": "AppWebshop"
   },
   "dependencies": {
-    "@nx-release-playground/ui-webshop": "0.1.1"
+    "@nx-release-playground/ui-webshop": "workspace:*"
   }
 }

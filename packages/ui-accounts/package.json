@@ -12,6 +12,6 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@nx-release-playground/ui-shared": "0.1.0"
+    "@nx-release-playground/ui-shared": "workspace:*"
   }
 }

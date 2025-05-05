@@ -6,6 +6,6 @@
     "name": "AppAccounts"
   },
   "dependencies": {
-    "@nx-release-playground/ui-accounts": "0.1.0"
+    "@nx-release-playground/ui-accounts": "workspace:*"
   }
 }
