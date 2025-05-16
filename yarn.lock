@@ -2982,6 +2982,12 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"@nx-release-playground/studio@workspace:packages/studio":
+  version: 0.0.0-use.local
+  resolution: "@nx-release-playground/studio@workspace:packages/studio"
+  languageName: unknown
+  linkType: soft
+
 "@nx-release-playground/ui-accounts@workspace:*, @nx-release-playground/ui-accounts@workspace:packages/ui-accounts":
   version: 0.0.0-use.local
   resolution: "@nx-release-playground/ui-accounts@workspace:packages/ui-accounts"
