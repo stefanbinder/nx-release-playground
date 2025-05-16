@@ -78,7 +78,7 @@
       }
     },
     "version": {
-      "useLegacyVersioning": false,
+      "useLegacyVersioning": true,
       "conventionalCommits": true
     },
     "git": {
