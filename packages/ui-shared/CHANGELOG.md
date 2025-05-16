@@ -1,3 +1,17 @@
+## 0.3.0 (2025-05-16)
+
+### 🚀 Features
+
+- upgrade nx ([7851dee](https://github.com/stefanbinder/nx-release-playground/commit/7851dee))
+
+### 🩹 Fixes
+
+- studio dependencies ([df82df4](https://github.com/stefanbinder/nx-release-playground/commit/df82df4))
+
+### 🧱 Updated Dependencies
+
+- Updated @nx-release-playground/studio to 0.9.0
+
 ## 0.2.0 (2025-05-16)
 
 ### 🚀 Features
