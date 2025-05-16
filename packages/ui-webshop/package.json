@@ -12,6 +12,7 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@nx-release-playground/ui-shared": "0.2.0"
+    "@nx-release-playground/ui-shared": "0.2.0",
+    "@nx-release-playground/studio": "0.8.0"
   }
 }
