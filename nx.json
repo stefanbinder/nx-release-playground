@@ -79,7 +79,10 @@
     },
     "version": {
       "useLegacyVersioning": true,
-      "conventionalCommits": true
+      "conventionalCommits": true,
+      "generatorOptions": {
+        "fallbackCurrentVersionResolver": "disk"
+      }
     },
     "git": {
       "commit": false

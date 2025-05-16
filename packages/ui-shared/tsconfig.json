@@ -3,6 +3,9 @@
   "include": [],
   "references": [
     {
+      "path": "../studio"
+    },
+    {
       "path": "./tsconfig.lib.json"
     }
   ],

@@ -2919,7 +2919,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@nx-release-playground/AppWebshop@workspace:apps/webshop"
   dependencies:
-    "@nx-release-playground/ui-webshop": "workspace:*"
+    "@nx-release-playground/ui-webshop": "npm:0.2.0"
   languageName: unknown
   linkType: soft
 
@@ -2927,7 +2927,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@nx-release-playground/app-accounts@workspace:apps/accounts"
   dependencies:
-    "@nx-release-playground/ui-accounts": "workspace:*"
+    "@nx-release-playground/ui-accounts": "npm:0.2.0"
   languageName: unknown
   linkType: soft
 
@@ -2988,25 +2988,25 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@nx-release-playground/ui-accounts@workspace:*, @nx-release-playground/ui-accounts@workspace:packages/ui-accounts":
+"@nx-release-playground/ui-accounts@npm:0.2.0, @nx-release-playground/ui-accounts@workspace:packages/ui-accounts":
   version: 0.0.0-use.local
   resolution: "@nx-release-playground/ui-accounts@workspace:packages/ui-accounts"
   dependencies:
-    "@nx-release-playground/ui-shared": "workspace:*"
+    "@nx-release-playground/ui-shared": "npm:0.2.0"
   languageName: unknown
   linkType: soft
 
-"@nx-release-playground/ui-shared@workspace:*, @nx-release-playground/ui-shared@workspace:packages/ui-shared":
+"@nx-release-playground/ui-shared@npm:0.2.0, @nx-release-playground/ui-shared@workspace:packages/ui-shared":
   version: 0.0.0-use.local
   resolution: "@nx-release-playground/ui-shared@workspace:packages/ui-shared"
   languageName: unknown
   linkType: soft
 
-"@nx-release-playground/ui-webshop@workspace:*, @nx-release-playground/ui-webshop@workspace:packages/ui-webshop":
+"@nx-release-playground/ui-webshop@npm:0.2.0, @nx-release-playground/ui-webshop@workspace:packages/ui-webshop":
   version: 0.0.0-use.local
   resolution: "@nx-release-playground/ui-webshop@workspace:packages/ui-webshop"
   dependencies:
-    "@nx-release-playground/ui-shared": "workspace:*"
+    "@nx-release-playground/ui-shared": "npm:0.2.0"
   languageName: unknown
   linkType: soft
 
